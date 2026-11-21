@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Context Compiler"
+  short_description: "Agents waste tokens by loading context in discovery order instead of value order."
+  default_prompt: "Use @agent-context-compiler to analyze the supplied artifact and return a validated result."
